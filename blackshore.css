@@ -1897,11 +1897,10 @@ body {
 }
 
 .large__49fc1, .medium__49fc1 {
-    min-height: min-content !important;
+    min-height: auto;
 }
 
 .root__49fc1.root__49fc1 {
     border: none;
 }
-
 
