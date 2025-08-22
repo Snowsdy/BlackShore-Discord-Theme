@@ -2,25 +2,25 @@
 
 :root {
     /* text colors */
-    --text-0: rgb(255, 255, 255); /* text on colored elements */
+    --text-0: rgb(253, 253, 253); /* text on colored elements */
     --text-1: hsl(220, 45%, 95%); /* other normally white text */
-    --text-2: rgb(181, 195, 241); /* headings and important text */
-    --text-3: hsl(220, 45%, 95%); /* normal text */
-    --text-4: rgb(58, 166, 255); /* icon buttons and channels */
-    --text-5: hsl(220, 45%, 95%); /* muted channels/chats and timestamps */
+    --text-2: rgb(0, 174, 255); /* headings and important text */
+    --text-3: hsl(217, 22%, 93%); /* normal text */
+    --text-4: rgb(156, 191, 245); /* icon buttons and channels */
+    --text-5: hsl(228, 17%, 88%); /* muted channels/chats and timestamps */
 
     /* background and dark colors */
     --bg-1: rgba(17, 50, 160, 0.178); /* dark buttons when clicked */
     --bg-2: rgba(35, 39, 47, 0.041); /* dark buttons */
-    --bg-3: rgba(2, 31, 77, 0.6); /* spacing, secondary elements */
-    --bg-4: rgba(1, 16, 66, 0.185); /* main background color */
-    --hover: rgba(17, 50, 160, 0.438); /* channels and buttons when hovered */
+    --bg-3: rgba(2, 31, 77, 0.7); /* spacing, secondary elements */
+    --bg-4: rgba(1, 16, 66, 0.466); /* main background color */
+    --hover: rgba(6, 38, 141, 0.438); /* channels and buttons when hovered */
     --active: rgba(17, 50, 160, 0.2); /* channels and buttons when clicked or selected */
-    --active-2: rgba(17, 50, 160, 0.3); /* extra state for transparent buttons */
+    --active-2: rgba(17, 50, 160, 0.842); /* extra state for transparent buttons */
 
 
     /* base colors */
-    --blue-1: rgb(44, 82, 248);
+    --blue-1: rgb(21, 94, 189);
     --blue-2: rgb(17, 50, 160);
     --blue-3: rgb(37, 76, 186);
     --blue-4: rgb(55, 98, 210);
